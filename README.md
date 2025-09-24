@@ -59,8 +59,8 @@ jupyter lab reproducing_figures.ipynb
 If you use this repository or reproduce the figures, please cite:
 
 > _Advancing Uncertainty Reduction in Nuclear Criticality Safety: Application of ACCRUE Relevance Index_, 2025.  
-> (Add full journal / DOI information here when available.)
+> (Add full journal / DOI information will be added when available.)
 
 ## License
 
-Add your preferred license (e.g., MIT) in `LICENSE`.
+CC0 1.0 Universal
